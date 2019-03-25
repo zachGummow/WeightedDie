@@ -1,15 +1,15 @@
-WeightedDie.exe
+Weighted Die
 ==============
 
 Compiling
 --------------
 
-To compile, simply run make.
+To compile, run the makefile.
 
 Usage
 --------------
 
-Simply execute the WeightedDie.exe file.
+Simply execute the WeightedDie output file.
 
 Output
 --------------
