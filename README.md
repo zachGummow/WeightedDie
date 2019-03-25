@@ -1,4 +1,4 @@
-DieRoller.exe
+WeightedDie.exe
 ==============
 
 Compiling
