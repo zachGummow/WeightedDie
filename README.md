@@ -9,7 +9,7 @@ To compile, simply run make.
 Usage
 --------------
 
-Simply execute the DieRoller.exe file.
+Simply execute the WeightedDie.exe file.
 
 Output
 --------------
