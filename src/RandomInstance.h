@@ -9,7 +9,7 @@
 #ifndef RANDOMINSTANCE_H
 #define RANDOMINSTANCE_H
 
-#include <Random>
+#include <random>
 
 //////////
 // The RandomInstance class is a singleton that ensures that we only
